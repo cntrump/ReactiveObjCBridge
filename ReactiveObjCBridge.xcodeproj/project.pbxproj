@@ -816,6 +816,7 @@
 					"DTRACE_PROBES_DISABLED=1",
 				);
 				INFOPLIST_FILE = ReactiveObjCBridge/Info.plist;
+				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "$(SRCROOT)/ReactiveObjCBridge/module.modulemap";
 				SWIFT_VERSION = 5.0;
 			};
@@ -837,6 +838,7 @@
 					"DTRACE_PROBES_DISABLED=1",
 				);
 				INFOPLIST_FILE = ReactiveObjCBridge/Info.plist;
+				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "$(SRCROOT)/ReactiveObjCBridge/module.modulemap";
 				SWIFT_VERSION = 5.0;
 			};
@@ -858,6 +860,7 @@
 					"DTRACE_PROBES_DISABLED=1",
 				);
 				INFOPLIST_FILE = ReactiveObjCBridge/Info.plist;
+				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "$(SRCROOT)/ReactiveObjCBridge/module.modulemap";
 				SWIFT_VERSION = 5.0;
 			};
@@ -879,6 +882,7 @@
 					"DTRACE_PROBES_DISABLED=1",
 				);
 				INFOPLIST_FILE = ReactiveObjCBridge/Info.plist;
+				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "$(SRCROOT)/ReactiveObjCBridge/module.modulemap";
 				SWIFT_VERSION = 5.0;
 			};
@@ -964,6 +968,7 @@
 					"DTRACE_PROBES_DISABLED=1",
 				);
 				INFOPLIST_FILE = ReactiveObjCBridge/Info.plist;
+				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "$(SRCROOT)/ReactiveObjCBridge/module.modulemap";
 				SWIFT_VERSION = 5.0;
 			};
@@ -985,6 +990,7 @@
 					"DTRACE_PROBES_DISABLED=1",
 				);
 				INFOPLIST_FILE = ReactiveObjCBridge/Info.plist;
+				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "$(SRCROOT)/ReactiveObjCBridge/module.modulemap";
 				SWIFT_VERSION = 5.0;
 			};
@@ -1006,6 +1012,7 @@
 					"DTRACE_PROBES_DISABLED=1",
 				);
 				INFOPLIST_FILE = ReactiveObjCBridge/Info.plist;
+				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "$(SRCROOT)/ReactiveObjCBridge/module.modulemap";
 				SWIFT_VERSION = 5.0;
 			};
@@ -1027,6 +1034,7 @@
 					"DTRACE_PROBES_DISABLED=1",
 				);
 				INFOPLIST_FILE = ReactiveObjCBridge/Info.plist;
+				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "$(SRCROOT)/ReactiveObjCBridge/module.modulemap";
 				SWIFT_VERSION = 5.0;
 			};
@@ -1097,6 +1105,7 @@
 				);
 				FRAMEWORK_VERSION = A;
 				INFOPLIST_FILE = ReactiveObjCBridge/Info.plist;
+				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "$(SRCROOT)/ReactiveObjCBridge/module.modulemap";
 				SWIFT_VERSION = 5.0;
 			};
@@ -1114,6 +1123,7 @@
 				);
 				FRAMEWORK_VERSION = A;
 				INFOPLIST_FILE = ReactiveObjCBridge/Info.plist;
+				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "$(SRCROOT)/ReactiveObjCBridge/module.modulemap";
 				SWIFT_VERSION = 5.0;
 			};
@@ -1163,6 +1173,7 @@
 					"$(PROJECT_DIR)/build/Debug-iphoneos",
 				);
 				INFOPLIST_FILE = ReactiveObjCBridge/Info.plist;
+				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "$(SRCROOT)/ReactiveObjCBridge/module.modulemap";
 				SWIFT_VERSION = 5.0;
 			};
@@ -1180,6 +1191,7 @@
 					"$(PROJECT_DIR)/build/Debug-iphoneos",
 				);
 				INFOPLIST_FILE = ReactiveObjCBridge/Info.plist;
+				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "$(SRCROOT)/ReactiveObjCBridge/module.modulemap";
 				SWIFT_VERSION = 5.0;
 			};
@@ -1252,6 +1264,7 @@
 				);
 				FRAMEWORK_VERSION = A;
 				INFOPLIST_FILE = ReactiveObjCBridge/Info.plist;
+				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "$(SRCROOT)/ReactiveObjCBridge/module.modulemap";
 				SWIFT_VERSION = 5.0;
 			};
@@ -1285,6 +1298,7 @@
 					"$(PROJECT_DIR)/build/Debug-iphoneos",
 				);
 				INFOPLIST_FILE = ReactiveObjCBridge/Info.plist;
+				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "$(SRCROOT)/ReactiveObjCBridge/module.modulemap";
 				SWIFT_VERSION = 5.0;
 			};
@@ -1342,6 +1356,7 @@
 				);
 				FRAMEWORK_VERSION = A;
 				INFOPLIST_FILE = ReactiveObjCBridge/Info.plist;
+				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "$(SRCROOT)/ReactiveObjCBridge/module.modulemap";
 				SWIFT_VERSION = 5.0;
 			};
@@ -1375,6 +1390,7 @@
 					"$(PROJECT_DIR)/build/Debug-iphoneos",
 				);
 				INFOPLIST_FILE = ReactiveObjCBridge/Info.plist;
+				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "$(SRCROOT)/ReactiveObjCBridge/module.modulemap";
 				SWIFT_VERSION = 5.0;
 			};
